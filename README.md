@@ -11,7 +11,7 @@ My research interests lie at the intersection of AI for Healthcare and Medical I
 
 Currently improving my Research skills: Machine Learning, Computer Vision and AI for Healthcare.<br />
 
-### My most recent projects on (https://aayushk614.github.io/index.html#other) 😃🧾
+### My most recent projects on (https://aayushk614.github.io/) 😃🧾
 <!-- BLOG-POST-LIST:START -->
 - [ZYIK.ML - Artificial Intelligence based Healthcare Platform](https://zyik.ml/)
 - [TEAR: Tool For Evaluating & Addressing Readmissions](https://medisen.ga/)
@@ -24,4 +24,4 @@ Currently improving my Research skills: Machine Learning, Computer Vision and AI
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aayushk61466)](https://twitter.com/aayushk61466)
 
 
-**[aayushk614.github.io](https://aayushk614.github.io/)**
+**[Website](https://aayushk614.github.io/)**
